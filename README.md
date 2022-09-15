@@ -1,8 +1,10 @@
-### Ciao! 👋
+### Ciao! I'm Giuseppe 👋
 
-- 🔭 I’m currently working at @ami-iit lab as Ph.D student :)
-- 🤖 Robotics and Aerospace engineer 🚀 
+- 🔭 I'm mostly interested in control/optimization/estimation and anything related to robotics 🤖
+- 📫 Currently working at @ami-iit lab as Ph.D student :)
+- 🚀 Robotics and Aerospace engineer  
 - 🌱 Optimization, simulation, control
+
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
