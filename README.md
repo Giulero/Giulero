@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at @ami-iit lab as Ph.D student :)
-
+- 🤖 Robotics and Aerospace engineer 🚀 
+- 🌱 Optimization, simulation, control
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
